@@ -1,0 +1,1090 @@
+{
+  "users": [
+    {
+      "id": "947a5f33-e96d-4d85-b74d-940b17f4eb72",
+      "firstName": "hossam",
+      "lastName": "soliman",
+      "age": 20,
+      "password": "mashenkah",
+      "phone": "01066398472",
+      "name": "hossam",
+      "image": "http://res.cloudinary.com/elsanta/image/upload/v1733703404/y8nughxa2b7uaeecujjy.jpg",
+      "address": {
+        "address": "محطة الرمل",
+        "city": "alexandria",
+        "postalCode": "",
+        "notes": ""
+      },
+      "role": "user",
+      "email": "hosssoliman86@gmail.com"
+    }
+  ],
+  "products": [
+    {
+      "id": "C84563211",
+      "name": "قهوة تركية محوج فاتح (12) ساشيت",
+      "category": "قهوة تركية",
+      "price": 90,
+      "image": "https://res.cloudinary.com/elsanta/image/upload/v1732828428/ayt6zamhyabl0i0rksaq.jpg",
+      "quantity_in_stock": 90,
+      "brand": "قهوة تركية",
+      "description": "قهوة تركية بنكهة الشوكولاتة الفاخرة. تجمع بين طعم القهوة الغني والمذاق الحلو للشوكولاتة، مما يجعلها الخيار المثالي لمحبي المذاقات الغير تقليدية.",
+      "weight": "200جرام",
+      "roast_level": "فاتحة",
+      "origin": "تركيا",
+      "grind_type": "محوج",
+      "ratings": 3,
+      "reviews": [
+        {
+          "reviewer": "Sara Miller",
+          "rating": 5,
+          "comment": "Amazing chocolatey flavor, perfect for dessert coffee."
+        },
+        {
+          "reviewer": "Maya Lee",
+          "rating": 5,
+          "comment": "Sweet and smooth, a unique twist on coffee."
+        },
+        {
+          "reviewer": "sdcsdsdv",
+          "rating": 5,
+          "comment": "dvsvds"
+        },
+        {
+          "reviewer": "حسام كمال",
+          "rating": 5,
+          "comment": "kldmsivnjbsjfvbsnoidjvskmdpkmksdm"
+        },
+        {
+          "reviewer": "حسام كمال",
+          "rating": 1,
+          "comment": "klsdjvinadf"
+        },
+        {
+          "reviewer": "حسام كمال",
+          "rating": 1,
+          "comment": "klsdjvinadf"
+        },
+        {
+          "reviewer": "حسام كمال",
+          "rating": 1,
+          "comment": "klsdjvinadf"
+        },
+        {
+          "reviewer": "حسام كمال",
+          "rating": 1,
+          "comment": "klsdjvinadf"
+        },
+        {
+          "reviewer": "حسام كمال",
+          "rating": 1,
+          "comment": "klsdjvinadf"
+        },
+        {
+          "reviewer": "حسام كمال",
+          "rating": 1,
+          "comment": "klsdjvinadf"
+        },
+        {
+          "reviewer": "حسام كمال",
+          "rating": 2,
+          "comment": "a"
+        },
+        {
+          "reviewer": "حسام كمال",
+          "rating": 5,
+          "comment": "sjhdsbhhjds"
+        },
+        {
+          "reviewer": "حسام كمال",
+          "rating": 5,
+          "comment": "sjhdsbhhjds"
+        },
+        {
+          "reviewer": "حسام كمال",
+          "rating": 5,
+          "comment": "sjhdsbhhjds"
+        },
+        {
+          "reviewer": "حسام كمال",
+          "rating": 5,
+          "comment": "sjhdsbhhjds"
+        },
+        {
+          "reviewer": "حسام كمال",
+          "rating": 5,
+          "comment": "sjhdsbhhjds"
+        },
+        {
+          "reviewer": "حسام كمال",
+          "rating": 5,
+          "comment": "sjhdsbhhjds"
+        },
+        {
+          "reviewer": "حسام كمال",
+          "rating": 5,
+          "comment": "sjhdsbhhjds"
+        },
+        {
+          "reviewer": "حسام كمال",
+          "rating": 5,
+          "comment": "sjhdsbhhjds"
+        },
+        {
+          "reviewer": "حسام كمال",
+          "rating": 5,
+          "comment": "sjhdsbhhjds"
+        },
+        {
+          "reviewer": "حسام كمال",
+          "rating": 5,
+          "comment": "sjhdsbhhjds"
+        },
+        {
+          "reviewer": "حسام كمال",
+          "rating": 5,
+          "comment": "sjhdsbhhjds"
+        },
+        {
+          "reviewer": "حسام كمال",
+          "rating": 5,
+          "comment": "sjhdsbhhjds"
+        },
+        {
+          "reviewer": "حسام كمال",
+          "rating": 5,
+          "comment": "ksfjdjns"
+        }
+      ],
+      "rating": 2.7777777777777777
+    },
+    {
+      "id": "654894654687984653132",
+      "name": "كوفي ميكس خمسينة 2*1",
+      "category": "كوفي ميكس",
+      "price": 99,
+      "image": "https://res.cloudinary.com/elsanta/image/upload/v1732827371/dqopdkzwpfjt8te666nx.jpg",
+      "quantity_in_stock": 120,
+      "brand": "كوفي ميكس",
+      "description": "تجمع قهوة إسبريسو ريتش بين الحموضة اللطيفة والنكهة القوية التي تجعلها مثالية لعشاق القهوة المركزة. تتميز بتوازن رائع بين الطعم المميز والكثافة العالية.",
+      "weight": "500جرام",
+      "roast_level": "غامقة جدا",
+      "origin": "إيطاليا",
+      "grind_type": "كوفي ميكس",
+      "ratings": 4.8,
+      "reviews": [
+        {
+          "reviewer": "Emma Watson",
+          "rating": 5,
+          "comment": "Best espresso I've ever had! Strong and smooth."
+        },
+        {
+          "reviewer": "Oliver Turner",
+          "rating": 4,
+          "comment": "Great espresso, but I prefer a bit less bitterness."
+        }
+      ]
+    },
+    {
+      "id": "C05161323",
+      "name": "قهوة تركي ساده فاتح (12) ساشيت",
+      "category": "قهوة تركية",
+      "price": 150,
+      "image": "https://res.cloudinary.com/elsanta/image/upload/v1732828787/inxygcgck60q74mgotpz.jpg",
+      "quantity_in_stock": 90,
+      "brand": "قهوة تركية",
+      "description": "قهوة تركية بنكهة الشوكولاتة الفاخرة. تجمع بين طعم القهوة الغني والمذاق الحلو للشوكولاتة، مما يجعلها الخيار المثالي لمحبي المذاقات الغير تقليدية.",
+      "weight": "60جرام",
+      "roast_level": "متوسطة",
+      "origin": "تركيا",
+      "grind_type": "سادة",
+      "ratings": 3,
+      "reviews": [
+        {
+          "reviewer": "Sara Miller",
+          "rating": 5,
+          "comment": "Amazing chocolatey flavor, perfect for dessert coffee."
+        },
+        {
+          "reviewer": "Maya Lee",
+          "rating": 5,
+          "comment": "Sweet and smooth, a unique twist on coffee."
+        },
+        {
+          "reviewer": "hossam",
+          "rating": 2,
+          "comment": "good\n"
+        },
+        {
+          "reviewer": "hossam",
+          "rating": 3,
+          "comment": "good\n"
+        },
+        {
+          "reviewer": "hossam",
+          "rating": 2,
+          "comment": "very good"
+        }
+      ]
+    },
+    {
+      "id": "51646545464",
+      "name": "كابتشينو مشكل 5 اطعم (12) ظرف",
+      "category": "كابتشينو",
+      "price": 63.99,
+      "image": "https://res.cloudinary.com/elsanta/image/upload/v1732826297/waolg89nqvczu1vvvcid.webp",
+      "brand": "كابتشينو",
+      "description": "كابتشينو ذات طعم معتدل مع حموضة رائعة، ومثالية لعشاق القهوة المتوازنة. تتميز بالنكهة الكريمية والشعور العميق بالانتعاش بعد كل رشفة.",
+      "weight": "200جرام",
+      "roast_level": "متوسطة",
+      "origin": "كولومبيا",
+      "grind_type": "كابتشينو",
+      "ratings": 4.7,
+      "reviews": [
+        {
+          "reviewer": "David Richards",
+          "rating": 5,
+          "comment": "Perfect balance of smoothness and flavor!"
+        },
+        {
+          "reviewer": "Olivia Green",
+          "rating": 4,
+          "comment": "Great taste, but I wish it was a little stronger."
+        }
+      ]
+    },
+    {
+      "id": "654894512356487951325",
+      "name": "قهوة فرنسية بندق (250) جرام هاي كواليتي",
+      "category": "قهوة فرنسية",
+      "price": 99,
+      "image": "https://res.cloudinary.com/elsanta/image/upload/v1732827907/rq90xnpclhj8gmxy8mmz.jpg",
+      "quantity_in_stock": 100,
+      "brand": "قهوة فرنسية",
+      "description": "قهوة عماد افندي الفرنسية غنية بطعم البندق الرائع الذي لا يُقاوم. تجمع بين الحلاوة الفائقة والنكهة الغنية والمميزة، لتمنحك تجربة قهوة استثنائية من أول رشفة.",
+      "weight": "250جرام",
+      "roast_level": "غامقة",
+      "origin": "فرنسا",
+      "grind_type": "قهوة فرنسية",
+      "ratings": 4.7,
+      "reviews": [
+        {
+          "reviewer": "John Doe",
+          "rating": 5,
+          "comment": "Perfect espresso roast! Strong and full of flavor."
+        },
+        {
+          "reviewer": "Sophie Lee",
+          "rating": 4,
+          "comment": "Love the taste, but it's a bit too strong for my liking."
+        }
+      ]
+    },
+    {
+      "id": "C001236",
+      "name": "قهوة سريعة الذوبان كلاسيك(بلاك) 25 ظرف",
+      "category": "كوفي ميكس",
+      "price": 30.99,
+      "image": "https://res.cloudinary.com/elsanta/image/upload/v1732827441/mzzj5cciiyhvxv198kl4.jpg",
+      "quantity_in_stock": 80,
+      "brand": "كوفي ميكس",
+      "description": "تجمع قهوة إسبريسو ريتش بين الحموضة اللطيفة والنكهة القوية التي تجعلها مثالية لعشاق القهوة المركزة. تتميز بتوازن رائع بين الطعم المميز والكثافة العالية.",
+      "weight": "2جرام لكل ظرف",
+      "roast_level": "غامقة",
+      "origin": "إيطاليا",
+      "grind_type": "كوفي ميكس",
+      "ratings": 4.8,
+      "reviews": [
+        {
+          "reviewer": "Emma Watson",
+          "rating": 5,
+          "comment": "Best espresso I've ever had! Strong and smooth."
+        },
+        {
+          "reviewer": "Oliver Turner",
+          "rating": 4,
+          "comment": "Great espresso, but I prefer a bit less bitterness."
+        }
+      ]
+    },
+    {
+      "id": "564852131658487",
+      "name": "كابتشينو فانيلا ( 12 ظرف )",
+      "category": "كابتشينو",
+      "price": 105,
+      "image": "https://res.cloudinary.com/elsanta/image/upload/v1732826996/rzasbuqowqzzjsfuufzm.webp",
+      "quantity_in_stock": 150,
+      "brand": "كابتشينو",
+      "description": "كابتشينو ذات طعم معتدل مع حموضة رائعة، ومثالية لعشاق القهوة المتوازنة. تتميز بالنكهة الكريمية والشعور العميق بالانتعاش بعد كل رشفة.",
+      "weight": "150جرام",
+      "roast_level": "متوسطة",
+      "origin": "كولومبيا",
+      "grind_type": "كابتشينو",
+      "ratings": 4.7,
+      "reviews": [
+        {
+          "reviewer": "David Richards",
+          "rating": 5,
+          "comment": "Perfect balance of smoothness and flavor!"
+        },
+        {
+          "reviewer": "Olivia Green",
+          "rating": 4,
+          "comment": "Great taste, but I wish it was a little stronger."
+        }
+      ]
+    },
+    {
+      "id": "C99955218",
+      "name": "قهوة تركية محوج وسط (250) جرام هاي كواليتي",
+      "category": "قهوة تركية",
+      "price": 50,
+      "image": "https://res.cloudinary.com/elsanta/image/upload/v1732828493/ps9cii8fk3epbxh5ej7j.jpg",
+      "quantity_in_stock": 90,
+      "brand": "قهوة تركية",
+      "description": "قهوة تركية بنكهة الشوكولاتة الفاخرة. تجمع بين طعم القهوة الغني والمذاق الحلو للشوكولاتة، مما يجعلها الخيار المثالي لمحبي المذاقات الغير تقليدية.",
+      "weight": "250جرام",
+      "roast_level": "متوسطة",
+      "origin": "تركيا",
+      "grind_type": "محوج",
+      "ratings": 3,
+      "reviews": [
+        {
+          "reviewer": "Sara Miller",
+          "rating": 5,
+          "comment": "Amazing chocolatey flavor, perfect for dessert coffee."
+        },
+        {
+          "reviewer": "Maya Lee",
+          "rating": 5,
+          "comment": "Sweet and smooth, a unique twist on coffee."
+        },
+        {
+          "reviewer": "mohamed",
+          "rating": 1,
+          "comment": "good"
+        },
+        {
+          "reviewer": "mohamed",
+          "rating": 2,
+          "comment": "good"
+        },
+        {
+          "reviewer": "mohamed",
+          "rating": 3,
+          "comment": "good"
+        },
+        {
+          "reviewer": "mohamed",
+          "rating": 2,
+          "comment": "good"
+        }
+      ]
+    },
+    {
+      "id": "5684456484646484884566595956sas",
+      "name": "قهوة فرنساوي شوكولاته (250) جرام هاي كواليتي",
+      "category": "قهوة فرنسية",
+      "price": 56,
+      "image": "https://res.cloudinary.com/elsanta/image/upload/v1732827998/sixh4xt5rd4tko6insb3.jpg",
+      "quantity_in_stock": 200,
+      "brand": "قهوة فرنسية",
+      "description": "قهوة فرنسية مختارة محمصة بعناية لتقديم طعم غني بالبهارات المميزة. مثالية للاستمتاع بها في أوقات الفطور أو مع الضيوف. تمتاز بجودتها العالية ورائحتها التي تملأ المكان.",
+      "weight": "250جرام",
+      "roast_level": "متوسطة",
+      "origin": "فرنسا",
+      "grind_type": "قهوة فرنسية",
+      "ratings": 4.6,
+      "reviews": [
+        {
+          "reviewer": "Lily Brooks",
+          "rating": 4,
+          "comment": "A classic coffee with great flavor."
+        },
+        {
+          "reviewer": "James Parker",
+          "rating": 5,
+          "comment": "Perfect for morning coffee. The aroma is incredible!"
+        }
+      ]
+    },
+    {
+      "id": "C615426in",
+      "name": "قهوة تركية ساده وسط (250) جرام هاي كواليتي",
+      "category": "قهوة تركية",
+      "price": 45,
+      "image": "https://res.cloudinary.com/elsanta/image/upload/v1732828854/vxvj11quzodag11nyas9.jpg",
+      "quantity_in_stock": 90,
+      "brand": "قهوة تركية",
+      "description": "قهوة تركية بنكهة الشوكولاتة الفاخرة. تجمع بين طعم القهوة الغني والمذاق الحلو للشوكولاتة، مما يجعلها الخيار المثالي لمحبي المذاقات الغير تقليدية.",
+      "weight": "250جرام",
+      "roast_level": "متوسطة",
+      "origin": "تركيا",
+      "grind_type": "سادة",
+      "ratings": 4.9,
+      "reviews": [
+        {
+          "reviewer": "Sara Miller",
+          "rating": 5,
+          "comment": "Amazing chocolatey flavor, perfect for dessert coffee."
+        },
+        {
+          "reviewer": "Maya Lee",
+          "rating": 5,
+          "comment": "Sweet and smooth, a unique twist on coffee."
+        }
+      ],
+      "isFavourite": false
+    },
+    {
+      "id": "C61521669sa",
+      "name": "قهوة تركية ساده فاتح (250) جرام هاي كواليتي",
+      "category": "قهوة تركية",
+      "price": 55,
+      "image": "https://res.cloudinary.com/elsanta/image/upload/v1732828904/quwrflrbehfezol96usj.jpg",
+      "quantity_in_stock": 90,
+      "brand": "قهوة تركية",
+      "description": "قهوة تركية بنكهة الشوكولاتة الفاخرة. تجمع بين طعم القهوة الغني والمذاق الحلو للشوكولاتة، مما يجعلها الخيار المثالي لمحبي المذاقات الغير تقليدية.",
+      "weight": "250جرام",
+      "roast_level": "متوسطة",
+      "origin": "تركيا",
+      "grind_type": "سادة",
+      "ratings": 4.9,
+      "reviews": [
+        {
+          "reviewer": "Sara Miller",
+          "rating": 5,
+          "comment": "Amazing chocolatey flavor, perfect for dessert coffee."
+        },
+        {
+          "reviewer": "Maya Lee",
+          "rating": 5,
+          "comment": "Sweet and smooth, a unique twist on coffee."
+        }
+      ]
+    },
+    {
+      "id": "C006455152695sa",
+      "name": "قهوة فرنساوي كراميل (250) جرام هاي كواليتي",
+      "category": "قهوة فرنسية",
+      "price": 75,
+      "image": "https://res.cloudinary.com/elsanta/image/upload/v1732828061/l2njsv5uapresf1mzsfo.jpg",
+      "quantity_in_stock": 200,
+      "brand": "قهوة فرنسية",
+      "description": "قهوة فرنسية مختارة محمصة بعناية لتقديم طعم غني بالبهارات المميزة. مثالية للاستمتاع بها في أوقات الفطور أو مع الضيوف. تمتاز بجودتها العالية ورائحتها التي تملأ المكان.",
+      "weight": "250جرام",
+      "roast_level": "فاتحة",
+      "origin": "فرنسا",
+      "grind_type": "قهوة فرنسية",
+      "ratings": 4.6,
+      "reviews": [
+        {
+          "reviewer": "Lily Brooks",
+          "rating": 4,
+          "comment": "A classic coffee with great flavor."
+        },
+        {
+          "reviewer": "James Parker",
+          "rating": 5,
+          "comment": "Perfect for morning coffee. The aroma is incredible!"
+        }
+      ]
+    },
+    {
+      "id": "C999955w31",
+      "name": "قهوة تركية محوج فاتح 250 جرام هاي كواليتي",
+      "category": "قهوة تركية",
+      "price": 60,
+      "image": "https://res.cloudinary.com/elsanta/image/upload/v1732828547/g13l6tlswnfoqax4hvny.jpg",
+      "quantity_in_stock": 90,
+      "brand": "قهوة تركية",
+      "description": "قهوة تركية بنكهة الشوكولاتة الفاخرة. تجمع بين طعم القهوة الغني والمذاق الحلو للشوكولاتة، مما يجعلها الخيار المثالي لمحبي المذاقات الغير تقليدية.",
+      "weight": "250جرام",
+      "roast_level": "فاتحة",
+      "origin": "تركيا",
+      "grind_type": "محوج",
+      "ratings": 4.9,
+      "reviews": [
+        {
+          "reviewer": "Sara Miller",
+          "rating": 5,
+          "comment": "Amazing chocolatey flavor, perfect for dessert coffee."
+        },
+        {
+          "reviewer": "Maya Lee",
+          "rating": 5,
+          "comment": "Sweet and smooth, a unique twist on coffee."
+        }
+      ]
+    },
+    {
+      "id": "456874512314c65484",
+      "name": "كوفي ميكس 3×1 مشكل 5 اطعم (24ظرف)",
+      "category": "كوفي ميكس",
+      "price": 45,
+      "image": "https://res.cloudinary.com/elsanta/image/upload/v1732827503/ffxbdgu03wcijxmlildn.jpg",
+      "quantity_in_stock": 150,
+      "brand": "كوفي ميكس",
+      "description": "تعتبر علبة كوفي ميكس 3*1 سريعة الذوبان بـ 5 نكهات مختلفة منتجًا رائعًا لعشاق القهوة. إنها توفر لك تجربة فريدة ومتنوعة مع كل كوب تشربه. ستجد في العلبة 5 أطعمة مختلفة تشمل النكهات الكلاسيكية مثل البندق والكراميل والشوكولاتة والفانيليا.",
+      "weight": "2 جرام لكل ظرف",
+      "roast_level": "غامقة",
+      "origin": "إيطاليا",
+      "grind_type": "كوفي ميكس",
+      "ratings": 4.8,
+      "reviews": [
+        {
+          "reviewer": "Emma Watson",
+          "rating": 5,
+          "comment": "Best espresso I've ever had! Strong and smooth."
+        },
+        {
+          "reviewer": "Oliver Turner",
+          "rating": 4,
+          "comment": "Great espresso, but I prefer a bit less bitterness."
+        }
+      ]
+    },
+    {
+      "id": "6849874564q6843",
+      "name": "كابتشينو بندق ( 12 ظرف )",
+      "category": "كابتشينو",
+      "price": 105,
+      "image": "https://res.cloudinary.com/elsanta/image/upload/v1732827071/wxslvsbsqgjq5fmig1ti.webp",
+      "quantity_in_stock": 150,
+      "brand": "كابتشينو",
+      "description": "كابتشينو ذات طعم معتدل مع حموضة رائعة، ومثالية لعشاق القهوة المتوازنة. تتميز بالنكهة الكريمية والشعور العميق بالانتعاش بعد كل رشفة.",
+      "weight": "150جرام",
+      "roast_level": "متوسطة",
+      "origin": "كولومبيا",
+      "grind_type": "كابتشينو",
+      "ratings": 4.7,
+      "reviews": [
+        {
+          "reviewer": "David Richards",
+          "rating": 5,
+          "comment": "Perfect balance of smoothness and flavor!"
+        },
+        {
+          "reviewer": "Olivia Green",
+          "rating": 4,
+          "comment": "Great taste, but I wish it was a little stronger."
+        }
+      ]
+    },
+    {
+      "id": "C05112598651s35",
+      "name": "قهوة فرنسية كلاسيك (250) جرام هاي كواليتي",
+      "category": "قهوة فرنسية",
+      "price": 56,
+      "image": "https://res.cloudinary.com/elsanta/image/upload/v1732828164/tn3yvygkpl4qangdqojv.jpg",
+      "quantity_in_stock": 200,
+      "brand": "قهوة فرنسية",
+      "description": "قهوة فرنسية مختارة محمصة بعناية لتقديم طعم غني بالبهارات المميزة. مثالية للاستمتاع بها في أوقات الفطور أو مع الضيوف. تمتاز بجودتها العالية ورائحتها التي تملأ المكان.",
+      "weight": "250جرام",
+      "roast_level": "فاتحة",
+      "origin": "فرنسا",
+      "grind_type": "قهوة فرنسية",
+      "ratings": 4.6,
+      "reviews": [
+        {
+          "reviewer": "Lily Brooks",
+          "rating": 4,
+          "comment": "A classic coffee with great flavor."
+        },
+        {
+          "reviewer": "James Parker",
+          "rating": 5,
+          "comment": "Perfect for morning coffee. The aroma is incredible!"
+        }
+      ]
+    },
+    {
+      "id": "C6563165566a4",
+      "name": "قهوة تركية محوج فاتح (250) جرام بريميم",
+      "category": "قهوة تركية",
+      "price": 65,
+      "image": "https://res.cloudinary.com/elsanta/image/upload/v1732828609/xt3suigawjp9ug7ye9gx.jpg",
+      "quantity_in_stock": 90,
+      "brand": "قهوة تركية",
+      "description": "قهوة تركية بنكهة الشوكولاتة الفاخرة. تجمع بين طعم القهوة الغني والمذاق الحلو للشوكولاتة، مما يجعلها الخيار المثالي لمحبي المذاقات الغير تقليدية.",
+      "weight": "250جرام",
+      "roast_level": "فاتحة",
+      "origin": "تركيا",
+      "grind_type": "محوج",
+      "ratings": 4.9,
+      "reviews": [
+        {
+          "reviewer": "Sara Miller",
+          "rating": 5,
+          "comment": "Amazing chocolatey flavor, perfect for dessert coffee."
+        },
+        {
+          "reviewer": "Maya Lee",
+          "rating": 5,
+          "comment": "Sweet and smooth, a unique twist on coffee."
+        }
+      ]
+    },
+    {
+      "id": "C615336522m216",
+      "name": "قهوة تركي ساده فاتح (250) جرام بريميم",
+      "category": "قهوة تركية",
+      "price": 80,
+      "image": "https://res.cloudinary.com/elsanta/image/upload/v1732828956/em5greokw90s1fhvuqzl.jpg",
+      "quantity_in_stock": 90,
+      "brand": "قهوة تركية",
+      "description": "قهوة تركية بنكهة الشوكولاتة الفاخرة. تجمع بين طعم القهوة الغني والمذاق الحلو للشوكولاتة، مما يجعلها الخيار المثالي لمحبي المذاقات الغير تقليدية.",
+      "weight": "250جرام",
+      "roast_level": "متوسطة",
+      "origin": "تركيا",
+      "grind_type": "سادة",
+      "ratings": 4.9,
+      "reviews": [
+        {
+          "reviewer": "Sara Miller",
+          "rating": 5,
+          "comment": "Amazing chocolatey flavor, perfect for dessert coffee."
+        },
+        {
+          "reviewer": "Maya Lee",
+          "rating": 5,
+          "comment": "Sweet and smooth, a unique twist on coffee."
+        }
+      ]
+    },
+    {
+      "id": "C86531546668465cx",
+      "name": "كابتشينو شوكولاته ( 12 ظرف )",
+      "category": "كابتشينو",
+      "price": 105,
+      "image": "https://res.cloudinary.com/elsanta/image/upload/v1732827142/rck6c08j12bhdct7acuh.webp",
+      "quantity_in_stock": 150,
+      "brand": "كابتشينو",
+      "description": "كابتشينو ذات طعم معتدل مع حموضة رائعة، ومثالية لعشاق القهوة المتوازنة. تتميز بالنكهة الكريمية والشعور العميق بالانتعاش بعد كل رشفة.",
+      "weight": "150جرام",
+      "roast_level": "متوسطة",
+      "origin": "كولومبيا",
+      "grind_type": "كابتشينو",
+      "ratings": 4.7,
+      "reviews": [
+        {
+          "reviewer": "David Richards",
+          "rating": 5,
+          "comment": "Perfect balance of smoothness and flavor!"
+        },
+        {
+          "reviewer": "Olivia Green",
+          "rating": 4,
+          "comment": "Great taste, but I wish it was a little stronger."
+        }
+      ]
+    },
+    {
+      "id": "455648745313253214aas",
+      "name": "كوفي ميكس 3*1 كلاسيك",
+      "category": "كوفي ميكس",
+      "price": 59,
+      "image": "https://res.cloudinary.com/elsanta/image/upload/v1732827565/bc9lzq15euov27ah1iqc.jpg",
+      "quantity_in_stock": 80,
+      "brand": "كوفي ميكس",
+      "description": "تجمع قهوة إسبريسو ريتش بين الحموضة اللطيفة والنكهة القوية التي تجعلها مثالية لعشاق القهوة المركزة. تتميز بتوازن رائع بين الطعم المميز والكثافة العالية.",
+      "weight": "30جرام",
+      "roast_level": "فاتحة",
+      "origin": "إيطاليا",
+      "grind_type": "كوفي ميكس",
+      "ratings": 4.8,
+      "reviews": [
+        {
+          "reviewer": "Emma Watson",
+          "rating": 5,
+          "comment": "Best espresso I've ever had! Strong and smooth."
+        },
+        {
+          "reviewer": "Oliver Turner",
+          "rating": 4,
+          "comment": "Great espresso, but I prefer a bit less bitterness."
+        }
+      ]
+    },
+    {
+      "id": "6554985135648546468cq4513",
+      "name": "كوفي ميكس شيكولاتة 3×1 (24 ظرف)",
+      "category": "كوفي ميكس",
+      "price": 25,
+      "image": "https://res.cloudinary.com/elsanta/image/upload/v1732827640/pvxmmxal94hhxsgja3m2.jpg",
+      "quantity_in_stock": 80,
+      "brand": "كوفي ميكس",
+      "description": "تجمع قهوة إسبريسو ريتش بين الحموضة اللطيفة والنكهة القوية التي تجعلها مثالية لعشاق القهوة المركزة. تتميز بتوازن رائع بين الطعم المميز والكثافة العالية.",
+      "weight": "30جرام",
+      "roast_level": "غامقة جدا",
+      "origin": "إيطاليا",
+      "grind_type": "كوفي ميكس",
+      "ratings": 4.8,
+      "reviews": [
+        {
+          "reviewer": "Emma Watson",
+          "rating": 5,
+          "comment": "Best espresso I've ever had! Strong and smooth."
+        },
+        {
+          "reviewer": "Oliver Turner",
+          "rating": 4,
+          "comment": "Great espresso, but I prefer a bit less bitterness."
+        }
+      ]
+    },
+    {
+      "id": "65487485646878946cxz512",
+      "name": "كابتشينو كراميل شوكولاته ( 12 ظرف )",
+      "category": "كابتشينو",
+      "price": 105,
+      "image": "https://res.cloudinary.com/elsanta/image/upload/v1732827242/gyjnh8qln6jqcggpxx1z.webp",
+      "quantity_in_stock": 150,
+      "brand": "كابتشينو",
+      "description": "كابتشينو ذات طعم معتدل مع حموضة رائعة، ومثالية لعشاق القهوة المتوازنة. تتميز بالنكهة الكريمية والشعور العميق بالانتعاش بعد كل رشفة.",
+      "weight": "150جرام",
+      "roast_level": "متوسطة",
+      "origin": "كولومبيا",
+      "grind_type": "كابتشينو",
+      "ratings": 4.7,
+      "reviews": [
+        {
+          "reviewer": "David Richards",
+          "rating": 5,
+          "comment": "Perfect balance of smoothness and flavor!"
+        },
+        {
+          "reviewer": "Olivia Green",
+          "rating": 4,
+          "comment": "Great taste, but I wish it was a little stronger."
+        }
+      ]
+    },
+    {
+      "id": "C615321pl3156",
+      "name": "قهوة تركية ساده وسط (250) جرام بريميم",
+      "category": "قهوة تركية",
+      "price": 70,
+      "image": "https://res.cloudinary.com/elsanta/image/upload/v1732829037/ids0ugtnqro0javckoas.jpg",
+      "quantity_in_stock": 90,
+      "brand": "قهوة تركية",
+      "description": "قهوة تركية بنكهة الشوكولاتة الفاخرة. تجمع بين طعم القهوة الغني والمذاق الحلو للشوكولاتة، مما يجعلها الخيار المثالي لمحبي المذاقات الغير تقليدية.",
+      "weight": "250جرام",
+      "roast_level": "غامقة",
+      "origin": "تركيا",
+      "grind_type": "سادة",
+      "ratings": 4.9,
+      "reviews": [
+        {
+          "reviewer": "Sara Miller",
+          "rating": 5,
+          "comment": "Amazing chocolatey flavor, perfect for dessert coffee."
+        },
+        {
+          "reviewer": "Maya Lee",
+          "rating": 5,
+          "comment": "Sweet and smooth, a unique twist on coffee."
+        }
+      ]
+    },
+    {
+      "id": "C521wpm35",
+      "name": "قهوة فرنسية بندق (250) جرام هاي كواليتي",
+      "category": "قهوة فرنسية",
+      "price": 165,
+      "image": "https://res.cloudinary.com/elsanta/image/upload/v1732828226/zeg1qwwngmubrxrg0rsy.jpg",
+      "quantity_in_stock": 200,
+      "brand": "قهوة فرنسية",
+      "description": "قهوة فرنسية مختارة محمصة بعناية لتقديم طعم غني بالبهارات المميزة. مثالية للاستمتاع بها في أوقات الفطور أو مع الضيوف. تمتاز بجودتها العالية ورائحتها التي تملأ المكان.",
+      "weight": "250جرام",
+      "roast_level": "متوسطة",
+      "origin": "فرنسا",
+      "grind_type": "قهوة فرنسية",
+      "ratings": 4.6,
+      "reviews": [
+        {
+          "reviewer": "Lily Brooks",
+          "rating": 4,
+          "comment": "A classic coffee with great flavor."
+        },
+        {
+          "reviewer": "James Parker",
+          "rating": 5,
+          "comment": "Perfect for morning coffee. The aroma is incredible!"
+        }
+      ]
+    },
+    {
+      "id": "C6563165459s6a65",
+      "name": "قهوة تركية محوج وسط 250 جرام بريميم",
+      "category": "قهوة تركية",
+      "price": 85,
+      "image": "https://res.cloudinary.com/elsanta/image/upload/v1732828657/empj526nwsiud60fbpve.jpg",
+      "quantity_in_stock": 90,
+      "brand": "قهوة تركية",
+      "description": "قهوة تركية بنكهة الشوكولاتة الفاخرة. تجمع بين طعم القهوة الغني والمذاق الحلو للشوكولاتة، مما يجعلها الخيار المثالي لمحبي المذاقات الغير تقليدية.",
+      "weight": "250جرام",
+      "roast_level": "متوسطة",
+      "origin": "تركيا",
+      "grind_type": "محوج",
+      "ratings": 4.9,
+      "reviews": [
+        {
+          "reviewer": "Sara Miller",
+          "rating": 5,
+          "comment": "Amazing chocolatey flavor, perfect for dessert coffee."
+        },
+        {
+          "reviewer": "Maya Lee",
+          "rating": 5,
+          "comment": "Sweet and smooth, a unique twist on coffee."
+        }
+      ]
+    },
+    {
+      "id": "897456431265484695acl5",
+      "name": "كوفي ميكس فانيليا 3×1 (24 ظرف)",
+      "category": "كوفي ميكس",
+      "price": 96,
+      "image": "https://res.cloudinary.com/elsanta/image/upload/v1732827709/zuy23aqls0au7ksnhn9f.jpg",
+      "quantity_in_stock": 80,
+      "brand": "كوفي ميكس",
+      "description": "تجمع قهوة إسبريسو ريتش بين الحموضة اللطيفة والنكهة القوية التي تجعلها مثالية لعشاق القهوة المركزة. تتميز بتوازن رائع بين الطعم المميز والكثافة العالية.",
+      "weight": "40جرام",
+      "roast_level": "فاتحة",
+      "origin": "إيطاليا",
+      "grind_type": "كوفي ميكس",
+      "ratings": 4.8,
+      "reviews": [
+        {
+          "reviewer": "Emma Watson",
+          "rating": 5,
+          "comment": "Best espresso I've ever had! Strong and smooth."
+        },
+        {
+          "reviewer": "Oliver Turner",
+          "rating": 4,
+          "comment": "Great espresso, but I prefer a bit less bitterness."
+        }
+      ]
+    },
+    {
+      "id": "C654125626wwq",
+      "name": "قهوه فرنساوي كراميل 100 جرام",
+      "category": "قهوة فرنسية",
+      "price": 37.99,
+      "image": "https://res.cloudinary.com/elsanta/image/upload/v1732828302/v6g3uj3zw6zww8d6cepe.jpg",
+      "quantity_in_stock": 130,
+      "brand": "قهوة فرنسية",
+      "description": "قهوة فرنسية مختارة محمصة بعناية لتقديم طعم غني بالبهارات المميزة. مثالية للاستمتاع بها في أوقات الفطور أو مع الضيوف. تمتاز بجودتها العالية ورائحتها التي تملأ المكان.",
+      "weight": "100جرام",
+      "roast_level": "فاتحة",
+      "origin": "فرنسا",
+      "grind_type": "قهوة فرنسية",
+      "ratings": 4.6,
+      "reviews": [
+        {
+          "reviewer": "Lily Brooks",
+          "rating": 4,
+          "comment": "A classic coffee with great flavor."
+        },
+        {
+          "reviewer": "James Parker",
+          "rating": 5,
+          "comment": "Perfect for morning coffee. The aroma is incredible!"
+        }
+      ]
+    },
+    {
+      "id": "C5646843516356askml",
+      "name": "كابتشينو كلاسيك ( 12 ظرف )",
+      "category": "كابتشينو",
+      "price": 105,
+      "image": "https://res.cloudinary.com/elsanta/image/upload/v1732827306/qcanopcqywcnvznup8yh.webp",
+      "quantity_in_stock": 150,
+      "brand": "كابتشينو",
+      "description": "كابتشينو ذات طعم معتدل مع حموضة رائعة، ومثالية لعشاق القهوة المتوازنة. تتميز بالنكهة الكريمية والشعور العميق بالانتعاش بعد كل رشفة.",
+      "weight": "150جرام",
+      "roast_level": "متوسطة",
+      "origin": "كولومبيا",
+      "grind_type": "كابتشينو",
+      "ratings": 4.7,
+      "reviews": [
+        {
+          "reviewer": "David Richards",
+          "rating": 5,
+          "comment": "Perfect balance of smoothness and flavor!"
+        },
+        {
+          "reviewer": "Olivia Green",
+          "rating": 4,
+          "comment": "Great taste, but I wish it was a little stronger."
+        }
+      ]
+    },
+    {
+      "id": "C69854666845ca64a34",
+      "name": "قهوة تركية محوج غامق (250) جرام بريميم",
+      "category": "قهوة تركية",
+      "price": 95,
+      "image": "https://res.cloudinary.com/elsanta/image/upload/v1732828728/rv8biohqg4vlpbijbdxz.jpg",
+      "quantity_in_stock": 90,
+      "brand": "قهوة تركية",
+      "description": "قهوة تركية بنكهة الشوكولاتة الفاخرة. تجمع بين طعم القهوة الغني والمذاق الحلو للشوكولاتة، مما يجعلها الخيار المثالي لمحبي المذاقات الغير تقليدية.",
+      "weight": "250جرام",
+      "roast_level": "غامقة",
+      "origin": "تركيا",
+      "grind_type": "محوج",
+      "ratings": 4.9,
+      "reviews": [
+        {
+          "reviewer": "Sara Miller",
+          "rating": 5,
+          "comment": "Amazing chocolatey flavor, perfect for dessert coffee."
+        },
+        {
+          "reviewer": "Maya Lee",
+          "rating": 5,
+          "comment": "Sweet and smooth, a unique twist on coffee."
+        }
+      ]
+    },
+    {
+      "id": "C698364c5a645c6a4s26",
+      "name": "قهوة تركية سادة غامق (250) جرام بريميم",
+      "category": "قهوة تركية",
+      "price": 75,
+      "image": "https://res.cloudinary.com/elsanta/image/upload/v1732829091/v6gmwmnkxlm58piwupxf.jpg",
+      "quantity_in_stock": 90,
+      "brand": "قهوة تركية",
+      "description": "قهوة تركية بنكهة الشوكولاتة الفاخرة. تجمع بين طعم القهوة الغني والمذاق الحلو للشوكولاتة، مما يجعلها الخيار المثالي لمحبي المذاقات الغير تقليدية.",
+      "weight": "250جرام",
+      "roast_level": "غامقة",
+      "origin": "تركيا",
+      "grind_type": "سادة",
+      "ratings": 4.9,
+      "reviews": [
+        {
+          "reviewer": "Sara Miller",
+          "rating": 5,
+          "comment": "Amazing chocolatey flavor, perfect for dessert coffee."
+        },
+        {
+          "reviewer": "Maya Lee",
+          "rating": 5,
+          "comment": "Sweet and smooth, a unique twist on coffee."
+        }
+      ]
+    }
+  ],
+  "wishlist": [
+    {
+      "userId": "947a5f33-e96d-4d85-b74d-940b17f4eb72",
+      "list": [
+        {
+          "id": "564852131658487",
+          "itemName": "كابتشينو فانيلا ( 12 ظرف )",
+          "category": "كابتشينو",
+          "price": 105,
+          "image": "https://res.cloudinary.com/elsanta/image/upload/v1732826996/rzasbuqowqzzjsfuufzm.webp"
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "cart": [
+    {
+      "userId": "947a5f33-e96d-4d85-b74d-940b17f4eb72",
+      "list": [
+        {
+          "id": "C615321pl3156",
+          "itemName": "قهوة تركية ساده وسط (250) جرام بريميم",
+          "category": "قهوة تركية",
+          "price": 70,
+          "image": "https://res.cloudinary.com/elsanta/image/upload/v1732829037/ids0ugtnqro0javckoas.jpg",
+          "count": 1
+        },
+        {
+          "id": "C84563211",
+          "itemName": "قهوة تركية محوج فاتح (12) ساشيت",
+          "category": "قهوة تركية",
+          "price": 90,
+          "image": "https://res.cloudinary.com/elsanta/image/upload/v1732828428/ayt6zamhyabl0i0rksaq.jpg",
+          "count": 1
+        },
+        {
+          "id": "564852131658487",
+          "category": "كابتشينو",
+          "price": 105,
+          "image": "https://res.cloudinary.com/elsanta/image/upload/v1732826996/rzasbuqowqzzjsfuufzm.webp",
+          "count": 1
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "ordersUsers": [
+    {
+      "userId": "947a5f33-e96d-4d85-b74d-940b17f4eb72",
+      "orders": [
+        {
+          "order_id": "e7c58b03-e846-480b-81b2-5028246afe21",
+          "userDetails": {
+            "firstName": "hossam",
+            "lastName": "soliman",
+            "phone": "01066398472",
+            "email": "hosssoliman86@gmail.com"
+          },
+          "shipping_address": {
+            "address": "محطة الرمل",
+            "city": "alexandria",
+            "postalCode": 232332,
+            "notes": "عايز يوصل في اسرع وقت"
+          },
+          "order_date": "2024-12-1 2:15:20",
+          "items": [
+            {
+              "id": "C615426in",
+              "itemName": "قهوة تركية ساده وسط (250) جرام هاي كواليتي",
+              "category": "قهوة تركية",
+              "price": 45,
+              "image": "https://res.cloudinary.com/elsanta/image/upload/v1732828854/vxvj11quzodag11nyas9.jpg",
+              "count": 1
+            },
+            {
+              "id": "C05161323",
+              "itemName": "قهوة تركي ساده فاتح (12) ساشيت",
+              "category": "قهوة تركية",
+              "price": 150,
+              "image": "https://res.cloudinary.com/elsanta/image/upload/v1732828787/inxygcgck60q74mgotpz.jpg",
+              "count": 3
+            },
+            {
+              "id": "C84563211",
+              "itemName": "قهوة تركية محوج فاتح (12) ساشيت",
+              "category": "قهوة تركية",
+              "price": 90,
+              "image": "https://res.cloudinary.com/elsanta/image/upload/v1732828428/ayt6zamhyabl0i0rksaq.jpg",
+              "count": 1
+            },
+            {
+              "id": "654894654687984653132",
+              "itemName": "كوفي ميكس خمسينة 2*1",
+              "category": "كوفي ميكس",
+              "price": 99,
+              "image": "https://res.cloudinary.com/elsanta/image/upload/v1732827371/dqopdkzwpfjt8te666nx.jpg",
+              "count": 1
+            }
+          ],
+          "payment": {
+            "payment_method": "عند الاستلام",
+            "amount_paid": 621,
+            "payment_date": "2024-12-1 2:15:20"
+          },
+          "order_status": "pending"
+        }
+      ],
+      "id": 1
+    }
+  ]
+}
